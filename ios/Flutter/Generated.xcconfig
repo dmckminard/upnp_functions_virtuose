@@ -1,8 +1,8 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/davidminard/FLUTTER/flutter
-FLUTTER_APPLICATION_PATH=/Users/davidminard/FLUTTER/Apps/Flutter-UPnP-functions
+FLUTTER_APPLICATION_PATH=/Users/davidminard/FLUTTER/Apps/upnp_functions_virtuose_david
 COCOAPODS_PARALLEL_CODE_SIGN=true
-FLUTTER_TARGET=/Users/davidminard/FLUTTER/Apps/Flutter-UPnP-functions/lib/main.dart
+FLUTTER_TARGET=/Users/davidminard/FLUTTER/Apps/upnp_functions_virtuose_david/lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios
 FLUTTER_BUILD_NAME=1.0.0
@@ -12,4 +12,4 @@ DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRU
 DART_OBFUSCATION=false
 TRACK_WIDGET_CREATION=true
 TREE_SHAKE_ICONS=false
-PACKAGE_CONFIG=/Users/davidminard/FLUTTER/Apps/Flutter-UPnP-functions/.dart_tool/package_config.json
+PACKAGE_CONFIG=/Users/davidminard/FLUTTER/Apps/upnp_functions_virtuose_david/.dart_tool/package_config.json

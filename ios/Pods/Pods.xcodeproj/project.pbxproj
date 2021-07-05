@@ -20,9 +20,9 @@
 
 /* Begin PBXBuildFile section */
 		6D3CF3E0ED859F74C914F2666CB1324A /* path_provider-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 88F7DA17718E7E0E34E175FF63F42E10 /* path_provider-dummy.m */; };
-		6EB319785E6A726394A25D75F7A95676 /* FLTPathProviderPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E58F6A4492B417265EC63A4D87DCE76 /* FLTPathProviderPlugin.m */; };
+		6EB319785E6A726394A25D75F7A95676 /* FLTPathProviderPlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 424028580E478508C44D5F817FC66AB3 /* FLTPathProviderPlugin.m */; };
 		D9A5A7E2CB5D4EFD1C99179AF6FF6214 /* Pods-Runner-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 139605D53E86A88BEF73EE9ECD0B6E24 /* Pods-Runner-dummy.m */; };
-		E0F4D5B11327BE1B10B46938B91C3279 /* FLTPathProviderPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 194AB50C3CA3208DD64D0E19A328F482 /* FLTPathProviderPlugin.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		E0F4D5B11327BE1B10B46938B91C3279 /* FLTPathProviderPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 626F38678836EF49C83336B4FE80ABE9 /* FLTPathProviderPlugin.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		F79A377E084A12DF23153BFD1EC23B17 /* path_provider-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 754754C3AE38DD2F26A9725786B48CAF /* path_provider-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
@@ -55,14 +55,14 @@
 		0E9A35331108C97FEDA7CB25374D59ED /* Pods-Runner-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Runner-acknowledgements.markdown"; sourceTree = "<group>"; };
 		139605D53E86A88BEF73EE9ECD0B6E24 /* Pods-Runner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Runner-dummy.m"; sourceTree = "<group>"; };
 		181A1BA1BEC38FC0B62FE1BEA81B1EEB /* Flutter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.release.xcconfig; sourceTree = "<group>"; };
-		194AB50C3CA3208DD64D0E19A328F482 /* FLTPathProviderPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FLTPathProviderPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/ios/Classes/FLTPathProviderPlugin.h"; sourceTree = "<group>"; };
 		20A80C36589268662990FD581F0386AE /* Pods-Runner.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.release.xcconfig"; sourceTree = "<group>"; };
-		2E58F6A4492B417265EC63A4D87DCE76 /* FLTPathProviderPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FLTPathProviderPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/ios/Classes/FLTPathProviderPlugin.m"; sourceTree = "<group>"; };
 		3059509AC94D6ABFFC57C7F9248990AB /* Pods-Runner-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Runner-acknowledgements.plist"; sourceTree = "<group>"; };
 		32183FD3A0D38CDA30DE76DAE52CF211 /* Pods-Runner.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.debug.xcconfig"; sourceTree = "<group>"; };
 		348250EFA0F6A80A8A72A4474C3D9EBB /* path_provider-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "path_provider-prefix.pch"; sourceTree = "<group>"; };
+		424028580E478508C44D5F817FC66AB3 /* FLTPathProviderPlugin.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FLTPathProviderPlugin.m; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/ios/Classes/FLTPathProviderPlugin.m"; sourceTree = "<group>"; };
 		4320F8FE373CC54ABAF755CF71C491D8 /* path_provider.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = path_provider.debug.xcconfig; sourceTree = "<group>"; };
 		4BE9B1533F3964622E91E716647C5835 /* Pods-Runner.profile.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Runner.profile.xcconfig"; sourceTree = "<group>"; };
+		626F38678836EF49C83336B4FE80ABE9 /* FLTPathProviderPlugin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FLTPathProviderPlugin.h; path = "../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.2/ios/Classes/FLTPathProviderPlugin.h"; sourceTree = "<group>"; };
 		669E8F25E1897672BDB80B7EB784DA24 /* libPods-Runner.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Runner.a"; path = "libPods-Runner.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		754754C3AE38DD2F26A9725786B48CAF /* path_provider-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "path_provider-umbrella.h"; sourceTree = "<group>"; };
 		79B774D9648F06B9BD8333AD0170B871 /* Flutter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Flutter.debug.xcconfig; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 		0358A05E09C00514B65431FB4CA1CD08 /* .. */ = {
 			isa = PBXGroup;
 			children = (
-				86A69EC52B0FEDF4F985F06F1401E373 /* Apps */,
+				F7123C4547F5CB7645C00969F9740313 /* Apps */,
 			);
 			name = ..;
 			path = ..;
@@ -110,6 +110,15 @@
 			);
 			name = Flutter;
 			path = ../Flutter;
+			sourceTree = "<group>";
+		};
+		2BA27BE4644CBA5D29285E5B2BD004DC /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				DAB2FB76841A750215BC9FC9B0965539 /* .symlinks */,
+			);
+			name = ios;
+			path = ios;
 			sourceTree = "<group>";
 		};
 		2CDED2906AFC4B9E79F3BEEF8043531E /* Pods-Runner */ = {
@@ -135,22 +144,14 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		3392F23E33F80CEDED9C47B95406831B /* ios */ = {
+		3501F7F43FB773EDBC1D1A04F2B56F7A /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				638D04F5B2443A51F775EBDE3652777C /* .symlinks */,
+				626F38678836EF49C83336B4FE80ABE9 /* FLTPathProviderPlugin.h */,
+				424028580E478508C44D5F817FC66AB3 /* FLTPathProviderPlugin.m */,
 			);
-			name = ios;
-			path = ios;
-			sourceTree = "<group>";
-		};
-		3404F19B38BC351BD5C806FDA0FE6D14 /* ios */ = {
-			isa = PBXGroup;
-			children = (
-				EBCAB84D35EA09D657312710EC18C842 /* Classes */,
-			);
-			name = ios;
-			path = ios;
+			name = Classes;
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		388A2C86FF755910F9EA6E190E67524D /* Targets Support Files */ = {
@@ -178,13 +179,22 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		638D04F5B2443A51F775EBDE3652777C /* .symlinks */ = {
+		625C3A7ECD4D03CF3201798BA05D6080 /* plugins */ = {
 			isa = PBXGroup;
 			children = (
-				8607EAC32CC4FBF82151956B946C7B56 /* plugins */,
+				8E9F79A2B00AE9D194A824E74E0956E6 /* path_provider */,
 			);
-			name = .symlinks;
-			path = .symlinks;
+			name = plugins;
+			path = plugins;
+			sourceTree = "<group>";
+		};
+		64CB550DD14B087443DE05F2238CF848 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				3501F7F43FB773EDBC1D1A04F2B56F7A /* Classes */,
+			);
+			name = ios;
+			path = ios;
 			sourceTree = "<group>";
 		};
 		6C32D0973669B8DD29EB63EDEDA051F4 /* Development Pods */ = {
@@ -194,15 +204,6 @@
 				AD4FA229D41B00AFD683FDF5443ECFCA /* path_provider */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		7B8514BF2F1E400D6F38D30891F7CE8D /* path_provider */ = {
-			isa = PBXGroup;
-			children = (
-				3404F19B38BC351BD5C806FDA0FE6D14 /* ios */,
-			);
-			name = path_provider;
-			path = path_provider;
 			sourceTree = "<group>";
 		};
 		8234E1FD5D880D73E717A6275EE854CB /* .. */ = {
@@ -223,22 +224,13 @@
 			path = ..;
 			sourceTree = "<group>";
 		};
-		8607EAC32CC4FBF82151956B946C7B56 /* plugins */ = {
+		8E9F79A2B00AE9D194A824E74E0956E6 /* path_provider */ = {
 			isa = PBXGroup;
 			children = (
-				7B8514BF2F1E400D6F38D30891F7CE8D /* path_provider */,
+				64CB550DD14B087443DE05F2238CF848 /* ios */,
 			);
-			name = plugins;
-			path = plugins;
-			sourceTree = "<group>";
-		};
-		86A69EC52B0FEDF4F985F06F1401E373 /* Apps */ = {
-			isa = PBXGroup;
-			children = (
-				E8D4231FC74B62D05750F3A1C5D045F4 /* Flutter-UPnP-functions */,
-			);
-			name = Apps;
-			path = Apps;
+			name = path_provider;
+			path = path_provider;
 			sourceTree = "<group>";
 		};
 		9BA132DF8C8A95F7FAF3E0E08FC21B42 /* Products */ = {
@@ -259,6 +251,15 @@
 			);
 			name = path_provider;
 			path = ../.symlinks/plugins/path_provider/ios;
+			sourceTree = "<group>";
+		};
+		AF4C79B869AA6AB1758200E147A8DC92 /* upnp_functions_virtuose_david */ = {
+			isa = PBXGroup;
+			children = (
+				2BA27BE4644CBA5D29285E5B2BD004DC /* ios */,
+			);
+			name = upnp_functions_virtuose_david;
+			path = upnp_functions_virtuose_david;
 			sourceTree = "<group>";
 		};
 		BC4DB2EC7A9F88201045BC7565AA8B63 /* Support Files */ = {
@@ -330,23 +331,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E8D4231FC74B62D05750F3A1C5D045F4 /* Flutter-UPnP-functions */ = {
+		DAB2FB76841A750215BC9FC9B0965539 /* .symlinks */ = {
 			isa = PBXGroup;
 			children = (
-				3392F23E33F80CEDED9C47B95406831B /* ios */,
+				625C3A7ECD4D03CF3201798BA05D6080 /* plugins */,
 			);
-			name = "Flutter-UPnP-functions";
-			path = "Flutter-UPnP-functions";
+			name = .symlinks;
+			path = .symlinks;
 			sourceTree = "<group>";
 		};
-		EBCAB84D35EA09D657312710EC18C842 /* Classes */ = {
+		F7123C4547F5CB7645C00969F9740313 /* Apps */ = {
 			isa = PBXGroup;
 			children = (
-				194AB50C3CA3208DD64D0E19A328F482 /* FLTPathProviderPlugin.h */,
-				2E58F6A4492B417265EC63A4D87DCE76 /* FLTPathProviderPlugin.m */,
+				AF4C79B869AA6AB1758200E147A8DC92 /* upnp_functions_virtuose_david */,
 			);
-			name = Classes;
-			path = Classes;
+			name = Apps;
+			path = Apps;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
